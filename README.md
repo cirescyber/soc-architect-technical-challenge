@@ -119,6 +119,7 @@ In addition, you will extend Wazuh with a **custom detection rule** to identify 
    * README with architecture overview and run instructions  
    * CI/CD workflows, Ansible configs, Docker stack files, tests  
    * Evidence artifacts (pipeline, dashboard, scans, alerts)  
+4. Reach out to Toufik Airane at t.airane@cirestechnologies.ma  
 
 ---
 
